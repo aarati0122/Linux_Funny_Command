@@ -1,1 +1,1 @@
-# Linux_Funny_Command
+# Linux Funny Command
